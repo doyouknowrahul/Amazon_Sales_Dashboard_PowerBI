@@ -1,5 +1,7 @@
 # Amazon_Sales_PowerBI_Dashboard
 
+This dashboard enables dynamic filtering and deep dives into our sales data, helping drive strategic decisions.
+
 Key Features:
 
 <li>Cards: Quick view of total revenue and orders</li>
@@ -8,4 +10,3 @@ Key Features:
 <li>Column Charts: Trends and patterns over time</li>
 <li>Slicer: Filter data by month for detailed time-based analysis</li>
 
-This dashboard enables dynamic filtering and deep dives into our sales data, helping drive strategic decisions.
